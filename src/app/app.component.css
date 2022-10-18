@@ -1,0 +1,16 @@
+h1,h2{
+  color: rgb(94, 2, 2);
+  text-align-last: center;
+}
+a:link,a:visited{
+  background-color: black;
+  color:white;
+  padding:10px 15px 20px;
+  text-align:center;
+  display: inline;
+  margin-left: 22px;
+  margin-right: 100px;
+}
+a:hover,a:active{
+  background-color: brown;
+}
